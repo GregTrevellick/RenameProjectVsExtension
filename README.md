@@ -2,6 +2,7 @@
 [![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20read%20me%20synchronizer-brightgreen.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
 
+**[Subscribe](https://github.com/GregTrevellick/RenameProjectVsExtension/subscription) to receive notificatons.**
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/RenameProjectVsExtension?branch=master)](https://bettercodehub.com/results/GregTrevellick/RenameProjectVsExtension)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/cf9d3266e9654def87d38c44300935c5)](https://www.codacy.com/project/gtrevellick/RenameProjectVsExtension/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/RenameProjectVsExtension&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/RenameProjectVsExtension/badge)](https://www.codefactor.io/repository/github/GregTrevellick/RenameProjectVsExtension)
