@@ -8,7 +8,6 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/cf9d3266e9654def87d38c44300935c5)](https://www.codacy.com/project/gtrevellick/RenameProjectVsExtension/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/RenameProjectVsExtension&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-renameprojectvsextension-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/RenameProjectVsExtension/badge)](https://www.codefactor.io/repository/github/GregTrevellick/RenameProjectVsExtension)
-[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/RenameProjectVsExtension/depshield.svg)](https://depshield.github.io)
 [![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/RenameProjectVsExtension/report?token=WePkH9SUX-2WNA2hb5Bc5YpCco8coo_x_I_FdRzeW9c)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/RenameProjectVsExtension/branch/master/summary)
 
 
